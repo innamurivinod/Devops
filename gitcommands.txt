@@ -1,0 +1,8 @@
+--git config --global user.email "innamurivinod123@gmail.com"
+--mkdir gitinstance
+   git init
+--git config --global --list(display list)
+--git config --global --edit (editing)
+--git add 
+--git config
+--git log
